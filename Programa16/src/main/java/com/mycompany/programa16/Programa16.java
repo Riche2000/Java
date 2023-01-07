@@ -11,6 +11,7 @@ public class Programa16 {
         numero = Integer.parseInt(JOptionPane.showInputDialog("Digita un número"));
         
         //Operador de igualdad == , operador de desigualdad o distinto !=
+        //Operador mayor que >, menor que < 
         if(numero == dato) //Si el número es igual a 5
         {
             JOptionPane.showMessageDialog(null,"El número es 5");
