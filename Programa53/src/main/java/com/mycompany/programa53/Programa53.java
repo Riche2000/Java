@@ -6,7 +6,8 @@ public class Programa53 {
         //Matrices - Definición de matriz 
         //Son arreglos bidimencionales osea tienen 2 dimensiones
         //Las matrizes tienen 2[][] corchetes, mientras que los arreglos solo tienen 1[]
-        //POnemos entre llaves el número de filas que va a tener ejemplo {{},{},{}} y luego las columnas que va a tener cada fila ejemplo {{1,2,3},{4,5,6},{7,8,9}}
+        //Ponemos entre llaves el número de filas que va a tener ejemplo {{},{},{}} y luego las columnas que va a tener cada fila ejemplo {{1,2,3},{4,5,6},{7,8,9}}
+        //En este caso rellenamos la martiz manualmente
         int matriz[][] = {{1,2,3},{4,5,6},{7,8,9}};
         
         //Imprimios la matriz que acabamos de rellenar
