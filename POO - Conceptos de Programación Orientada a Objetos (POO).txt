@@ -1,0 +1,31 @@
+POO - Conceptos de Programación Orientada a Objetos (POO)
+
+Un objeto debe tener atributos y metodos
+Un coche es un objeto sus Atributos (Caracteristicas) son: Color, Marca, km y sus Métodos (Acciones) son: Encender, Acelerar, Frenar
+
+3/2 es un Objeto ya que tiene Atributos (Caracteristicas) como: numerador y denominador. Y sus Métodos (Acciones) son: simplificarse, sumarse con otra fracción, restarse con otra fracción 
+
+Clases el POO
+Es un conjunto de objetos con características similares.
+
+ejemplo de una Clase coche
+
+Coche
+-Color
+-Marca
+-km
+encender()
+acelerar()
+frenar()
+
+Ejemplo creando objetos de la clase Coche
+
+Coche1 
+Color:Blanco
+Marca:Audi
+km:0
+
+Coche2
+Color:Rojo
+Marca:Ferrari
+km:100
