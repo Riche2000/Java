@@ -53,3 +53,25 @@ Modificador de acceso Valor de retorno Nombre del método Argumentos
           public            void             metodo          ( ){
 
 }
+
+Metodos: Parámetros y Argumentos
+
+Un parametro es una declaración de variable u objeto. Un argumetno es un valor que se envía
+
+Declaracion del Método
+public void metodo(  ){
+
+
+}
+
+Invocación del método
+objeto.metodo(  );
+
+                     Parámetros
+public void metodo(Int a, String b){
+
+
+}
+
+             Argumentos
+objeto.metodo(1, "Hola");
