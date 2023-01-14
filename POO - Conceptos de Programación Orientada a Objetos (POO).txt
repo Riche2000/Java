@@ -46,3 +46,10 @@ Cramos un archivo de java desde 0: Lo creamos con Java with Ant > Java App > Nex
 Para crear una clase nueva en NetBeans se da clic derecho en "Source Packages" y le damos clic a la opcion new > Java Package, Le damos el nombre al paquete.
 Dentro del paquete creamos la clase clic derecho en el paquete New > Java Class y le ponemos el nombre de la clase. 
 
+
+Métodos en Java
+Un método es una acción o comportamiento de los objetos
+Modificador de acceso Valor de retorno Nombre del método Argumentos
+          public            void             metodo          ( ){
+
+}
