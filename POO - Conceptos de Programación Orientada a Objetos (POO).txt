@@ -29,3 +29,20 @@ Coche2
 Color:Rojo
 Marca:Ferrari
 km:100
+
+Las clases en Java
+
+public class Coche
+
+Debe llevar modificador de acceso (public) y nombre de la clase debe empezar en mayuscula y en singular (Coche)
+
+Los objetos se crean con 
+
+Nombre clase  Nombre objeto 		 Constructores
+    Coche        coche1     =   new     Coche();
+    Coche        coche2     =   new     Coche();
+
+Cramos un archivo de java desde 0: Lo creamos con Java with Ant > Java App > Next > Desmarcamos la casilla (Create Main Class)
+Para crear una clase nueva en NetBeans se da clic derecho en "Source Packages" y le damos clic a la opcion new > Java Package, Le damos el nombre al paquete.
+Dentro del paquete creamos la clase clic derecho en el paquete New > Java Class y le ponemos el nombre de la clase. 
+
