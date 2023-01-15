@@ -114,3 +114,22 @@ Stirng saludo = objeto.saludo("Ricardo");
 
 System.out.println(saludo);
 
+Método Constructor
+Es un método especial de una clase que se invoca siempre que se crea un objeto de esa clase.
+
+Cuando se crea un objeto ocrren 3 cosas: 
+1. Se asigna memoria para el objeto
+2. Se inicializan los atributos de ese objeto
+3. Se invoca al constructor de la clase que puede ser uno entre varios
+
+Ejemplo:
+ Clase objeto   Constructor
+Persona p1 = new Persona();
+
+El Metodo Constructor nos ayuda a facilitar la inicializacion de los atributos de esa clase
+Características de los Constructores
+- Tienen el mismo nombre de la Clase
+- No devuelve ningún valor
+- Debe declararse como público
+
+
