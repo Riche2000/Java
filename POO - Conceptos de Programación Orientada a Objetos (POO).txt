@@ -75,3 +75,42 @@ public void metodo(Int a, String b){
 
              Argumentos
 objeto.metodo(1, "Hola");
+
+Métodos: Retorno de Valores
+
+void es para no retornar nada 
+int es para retornar un valor entero
+
+Ejemplo 1
+
+Declaracion de método
+     Retorno     Parámetros
+public int sumar(int a,int b){
+  // Variable local suma
+	int suma = a+b;
+  // Return nos retorna el valor entero de suma
+	return suma;
+}
+
+En el metodo main
+    //Llamamos al metodo sumar y le damos los argumentos 5 y 4
+int suma = objeto.sumar(5,4);
+System.out.println("La suma es: "+suma);
+
+Ejemplo 2
+
+Declaracion de método
+	Retorno     	Parámetro
+public String saludar(String nombre){
+	//Variable local llamada saludo
+	String saludo = "Hola "+nombre;
+	//return nos retorna el string  
+	return saludo;
+}
+
+En el metodo main 
+	//Llamamos al metodo saludo y le damos el argumento de tipo string Ricardo y lo guardamos en el string saludo 
+Stirng saludo = objeto.saludo("Ricardo");
+
+System.out.println(saludo);
+
